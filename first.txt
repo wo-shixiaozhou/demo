@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I love idea我是 你爸爸
 
+=======
+other idea
+>>>>>>> origin/branch2
